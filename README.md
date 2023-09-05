@@ -8,4 +8,4 @@ Complete this sent...
 
 ## Local Development
 
-1 Open index.html in oyur browser
+1 Open index.html in oyur browser.
